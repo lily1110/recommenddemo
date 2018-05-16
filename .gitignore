@@ -1,0 +1,6 @@
+/src/data
+*.idea
+*.iml
+/out
+/target
+/test
